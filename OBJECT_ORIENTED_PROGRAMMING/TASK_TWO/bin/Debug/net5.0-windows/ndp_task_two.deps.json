@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ndp_task_two/1.0.0": {
+        "runtime": {
+          "ndp_task_two.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ndp_task_two/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
