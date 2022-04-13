@@ -4,16 +4,16 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 /****************************************************************************
-** SAKARYA ÜNÝVERSÝTESÝ
-** BÝLGÝSAYAR VE BÝLÝÞÝM BÝLÝMLERÝ FAKÜLTESÝ
-** BÝLGÝSAYAR MÜHENDÝSLÝÐÝ BÖLÜMÜ
-** NESNEYE DAYALI PROGRAMLAMA DERSÝ
-** 2021-2022 BAHAR DÖNEMÝ
+** SAKARYA ÃœNÄ°VERSÄ°TESÄ°
+** BÄ°LGÄ°SAYAR VE BÄ°LÄ°ÅžÄ°M BÄ°LÄ°MLERÄ° FAKÃœLTESÄ°
+** BÄ°LGÄ°SAYAR MÃœHENDÄ°SLÄ°ÄžÄ° BÃ–LÃœMÃœ
+** NESNEYE DAYALI PROGRAMLAMA DERSÄ°
+** 2021-2022 BAHAR DÃ–NEMÄ°
 **
-** ÖDEV NUMARASI..........: 2
-** ÖÐRENCÝ ADI............: HAKKI CEYLAN
-** ÖÐRENCÝ NUMARASI.......: G211210350
-** DERSÝN ALINDIÐI GRUP...: 2-A
+** Ã–DEV NUMARASI..........: 2
+** Ã–ÄžRENCÄ° ADI............: HAKKI CEYLAN
+** Ã–ÄžRENCÄ° NUMARASI.......: G211210350
+** DERSÄ°N ALINDIÄžI GRUP...: 2-A
 ****************************************************************************/
 namespace ndp_task_two
 {
