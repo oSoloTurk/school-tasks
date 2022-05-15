@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5T1mFSkWTaavWC5DHiqB6r4Zf7U3HzpUaVxARPBhMife6qQi2h0iTBK4vqk/HAk9Thrk92Bp9HBSsGeA3h9kPQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programming_Workspaces\\csharp-workspace\\NDP_TASK_3\\NDP_TASK_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hakki\\.nuget\\packages\\faker.net\\2.0.154\\faker.net.2.0.154.nupkg.sha512",
+    "C:\\Users\\hakki\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hakki\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
